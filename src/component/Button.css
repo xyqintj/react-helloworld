@@ -1,0 +1,14 @@
+.component-button {
+  width: 50px;
+  height: 20px;
+}
+
+.component-button button{
+  width: 50px;
+  height: 20px;
+}
+
+.component-button.orange button {
+  background-color: #F5923E;
+  color: white;
+}
